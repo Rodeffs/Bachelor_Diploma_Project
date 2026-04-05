@@ -6,4 +6,7 @@
 **/Release
 **/Debug
 *.ipynb_checkpoints
-
+/datasets
+/literature
+/presentation
+/text
